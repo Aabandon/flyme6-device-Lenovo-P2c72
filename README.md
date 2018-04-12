@@ -1,4 +1,4 @@
-# flyme6-device-Lenovo-P2c72
+# flyme6-device-Lenovo-P2c72（Android N）
 联想P2（kuntao）flyme6 base sudamod 
 1.双卡用户开不了数据连接的请先取下其中的一个卡，开了数据连接之后在放入双卡即可正常使用
 2.卡二不可以打电话（可以用数据流量）
